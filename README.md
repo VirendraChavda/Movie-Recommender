@@ -40,11 +40,7 @@ To set up and use this project, follow these steps:
    python -m venv env
    source env/bin/activate  # On Windows: env\Scripts\activate
    ```
-3. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-4. Launch the Jupyter Notebook:
+3. Launch the Jupyter Notebook:
    ```bash
    jupyter notebook
    ```
