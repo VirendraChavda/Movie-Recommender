@@ -1,7 +1,9 @@
 # Movie Recommender System Using K-Means Clustering
 ### Author: Virendrasinh Chavda
 
+<p align="justify">
 This repository contains a movie recommender system that leverages <strong>K-Means clustering</strong> to group users based on their movie preferences and recommend movies they are likely to enjoy. The project visualizes user-movie interactions through heatmaps and uses clustering techniques to identify patterns in ratings.
+</p>
 
 ---
 
@@ -32,15 +34,10 @@ To set up and use this project, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/movie-recommender-kmeans.git
+   git clone https://github.com/VirendraChavda/Movie-Recommender.git
    cd movie-recommender-kmeans
    ```
-2. Create a virtual environment:
-   ```bash
-   python -m venv env
-   source env/bin/activate  # On Windows: env\Scripts\activate
-   ```
-3. Launch the Jupyter Notebook:
+2. Launch the Jupyter Notebook:
    ```bash
    jupyter notebook
    ```
